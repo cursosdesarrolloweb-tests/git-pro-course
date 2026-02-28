@@ -9,6 +9,8 @@
     <nav>
         <a href="/">Home</a>
         <a href="/about">About</a>
+        <a href="/services">Services</a>
+        <a href="/contact">Contact</a>
     </nav>
     <h1>Welcome to Git Pro Course</h1>
     <p>Learning Git like a professional.</p>
