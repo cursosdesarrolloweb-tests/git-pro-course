@@ -6,6 +6,10 @@
     <title>Git Pro Course</title>
 </head>
 <body>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+    </nav>
     <h1>Welcome to Git Pro Course</h1>
     <p>Learning Git like a professional.</p>
     <footer>
