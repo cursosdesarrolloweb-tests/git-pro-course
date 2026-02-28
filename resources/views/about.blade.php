@@ -9,5 +9,6 @@
     <h1>About</h1>
     <p>This project is built with Laravel and Sail.</p>
     <p>Version 1.0</p>
+    <p>Licensed under MIT.</p>
 </body>
 </html>
