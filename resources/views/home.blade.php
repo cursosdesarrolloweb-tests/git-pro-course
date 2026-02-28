@@ -10,6 +10,7 @@
         <a href="/">Home</a>
         <a href="/about">About</a>
         <a href="/services">Services</a>
+        <a href="/faq">FAQ</a>
         <a href="/contact">Contact</a>
     </nav>
     <h1>Welcome to Git Pro Course</h1>
